@@ -1,0 +1,6 @@
+{
+  "name": "NutriPulse - Circadian Vitality & Zero-Waste",
+  "description": "Predict your energy. Eat smarter. Waste less. Circadian biotelemetry & zero-waste kitchen orchestration with real-time telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
